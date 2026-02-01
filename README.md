@@ -1,4 +1,4 @@
-# RackPulse — Hardware Systems Validation & Fleet Triage Console (Meta-style)
+# RackPulse — Hardware Systems Validation & Fleet Triage Console
 
 **Live Demo:** <PASTE_YOUR_VERCEL_LINK_HERE>  
 **Stack:** React + TypeScript + Vite (pure CSS) • In-browser simulation • Deploy: Vercel  
