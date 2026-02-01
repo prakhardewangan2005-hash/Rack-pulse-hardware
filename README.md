@@ -1,6 +1,6 @@
 # RackPulse — Hardware Systems Validation & Fleet Triage Console
 
-**Live Demo:** <PASTE_YOUR_VERCEL_LINK_HERE>  
+**Live Demo:** https://v0.app/chat/rack-pulse-hardware-console-jTX3f9rlVT3?ref=N6H6A3 
 **Stack:** React + TypeScript + Vite (pure CSS) • In-browser simulation • Deploy: Vercel  
 **Domain:** Hardware Systems Engineering • Power/Thermal • Fleet Diagnostics • Validation Automation
 
